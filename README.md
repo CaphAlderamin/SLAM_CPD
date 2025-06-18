@@ -3,6 +3,8 @@ SLAM (Simultaneous Localization and Mapping) using the CPD (Cooperative Point Dr
 
 Метод CPD (Coherent Point Drift) (Когерентный дрейф точек) - это алгоритм машинного обучения, предназначенный для кластеризации данных. Он основан на идее, что каждая точка данных принадлежит определенному кластеру, и кластеры имеют свои центры. Метод CPD позволяет обрабатывать данные с различными распределениями и шума, так как он учитывает расстояния между точками и центрами кластеров.
 
+Код проекта в Colab: https://colab.research.google.com/drive/1UhOAbh55-v8iiZLBuziz1ZeiCRnEZj2k?usp=sharing
+
 Класс "Map" является реализацией метода Occupancy Grid Mapping представленного в главе 9 "Вероятностной робототехники" Себастьяна Труна (Sebastian Thrun) и др.
 
 Книга: https://github.com/literator1996/veroyatnostnaya_robototehnica/blob/master/src/9/1-9-ready2final-inedit.pdf
