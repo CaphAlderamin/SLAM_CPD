@@ -23,11 +23,11 @@ https://github.com/user-attachments/assets/9877ff84-82e0-4bfa-9d15-6bb9d283d267
 
 #### Демонстрация с "∷"-образной комнатой (сканирование с низкой частотой):
 
-https://github.com/user-attachments/assets/fd4d49b7-a85a-4236-9215-d7a7c4e03aae
+https://github.com/user-attachments/assets/14492627-364f-44c6-97c4-25bdf5da61c8
 
 #### Демонстрация с "∷"-образной комнатой (сканирование с высокой частотой):
 
-https://github.com/user-attachments/assets/14492627-364f-44c6-97c4-25bdf5da61c8
+https://github.com/user-attachments/assets/fd4d49b7-a85a-4236-9215-d7a7c4e03aae
 
 #### Демонстрация с "house"-образной комнатой:
 
