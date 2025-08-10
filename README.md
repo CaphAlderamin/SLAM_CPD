@@ -110,23 +110,23 @@ SLAM_CPD/
 
 - **"H"-образная комната**: `videos/animation_room1.H.mp4`
 
-  <video controls src="videos/animation_room1(H).mp4" title="Title" width=50%></video>
+  https://github.com/user-attachments/assets/ce55b2a2-4422-4486-8b96-16cafb38850a
 
 - **"-"-образная комната**: `videos/animation_room2.-.mp4`
 
-  <video controls src="videos/animation_room2(-).mp4" title="Title" width=50%></video>
+  https://github.com/user-attachments/assets/78563031-ef0f-41b2-be5e-5b89893550a9
 
 - **"∷"-образная (низкая частота сканирования)**: `videos/animation_room3._notaccurate.mp4`
 
-  <video controls src="videos/animation_room3(∷)_notaccurate.mp4" title="Title" width=50%></video>
+  https://github.com/user-attachments/assets/3fc1d10f-7fc5-4df6-86c5-29c2c09dbfc5
 
 - **"∷"-образная (высокая частота сканирования)**: `videos/animation_room3._accurate.mp4`
 
-  <video controls src="videos/animation_room3(∷)_accurate.mp4" title="Title" width=50%></video>
+  https://github.com/user-attachments/assets/c5586bb0-dea3-4c75-8ce0-9a283cd9165e
 
 - **"House"-образная комната**: `videos/animation_room4.house.mp4`
 
-  <video controls src="videos/animation_room4(house).mp4" title="Title" width=50%></video>
+  https://github.com/user-attachments/assets/acb2f529-6f1d-4d75-a10c-6f97afe7e2be
   
 ---
 
