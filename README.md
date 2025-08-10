@@ -109,11 +109,25 @@ SLAM_CPD/
 ## 🎥 Демонстрация <a name="demonstration"></a>
 
 - **"H"-образная комната**: `videos/animation_room1.H.mp4`
+
+  <video controls src="videos/animation_room1(H).mp4" title="Title" width=50%></video>
+
 - **"-"-образная комната**: `videos/animation_room2.-.mp4`
+
+  <video controls src="videos/animation_room2(-).mp4" title="Title" width=50%></video>
+
 - **"∷"-образная (низкая частота сканирования)**: `videos/animation_room3._notaccurate.mp4`
+
+  <video controls src="videos/animation_room3(∷)_notaccurate.mp4" title="Title" width=50%></video>
+
 - **"∷"-образная (высокая частота сканирования)**: `videos/animation_room3._accurate.mp4`
+
+  <video controls src="videos/animation_room3(∷)_accurate.mp4" title="Title" width=50%></video>
+
 - **"House"-образная комната**: `videos/animation_room4.house.mp4`
 
+  <video controls src="videos/animation_room4(house).mp4" title="Title" width=50%></video>
+  
 ---
 
 ## 🔗 Полезные ссылки <a name="links"></a>
